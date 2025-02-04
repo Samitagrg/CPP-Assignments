@@ -19,6 +19,6 @@ int main()
 
     cout << "After swapping:" << endl;
     cout << "First number: " << a << endl;
-    cout << "Second number: " << b << endl;
-    
-}
+    cout << "Second number: " << b  << endl;
+
+} 
